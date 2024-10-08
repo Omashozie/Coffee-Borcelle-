@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Pompiere";
+    src: local("Pompiere-Regular"),
+    url('./fonts/Pompiere-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Galada";
+    src: local("Galada-Regular"),
+    url('./fonts/Galada-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins-Bold"),
+    url('./fonts/Poppins-Bold.ttf') format("truetype");
+} 
+
+@font-face {
+    font-family: "RegularPoppins";
+    src: local("Poppins-Regular"),
+    url('./fonts/Poppins-Regular.ttf') format("truetype");
+} 
+
+@font-face {
+    font-family: "Inter";
+    src: local("Inter_24pt-Regular"),
+    url('./fonts/Inter_24pt-Regular.ttf') format("truetype");
+} 
+
+@font-face {
+    font-family: "Inter";
+    src: local("Inter_24pt-Bold"),
+    url('./fonts/Inter_24pt-Bold.ttf') format("truetype");
+} 
+
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat-Bold"),
+    url('./fonts/Montserrat-Bold.ttf') format("truetype");
+}
